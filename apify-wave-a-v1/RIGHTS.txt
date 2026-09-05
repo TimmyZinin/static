@@ -1,0 +1,2 @@
+RIGHTS: Files in this directory are original test fixtures created by IE Timofey Zinin (owner of timzinin.com) for automated processing by Apify Actors published under apify.com/zinin. Machine access (GET) to this path is expressly permitted. Directory is immutable (v1); changes go to a new version directory.
+Created: 2026-09-05
